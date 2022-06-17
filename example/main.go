@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/bombsimon/logrusr/v3"
+	"github.com/bombsimon/logrusr"
 	"github.com/sirupsen/logrus"
 )
 
