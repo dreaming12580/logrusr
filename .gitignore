@@ -77,5 +77,5 @@ tags
 
 # Coc configuration directory
 .vim
-
+.idea
 # End of https://www.gitignore.io/api/vim,macOS,IntelliJ+allb,go
