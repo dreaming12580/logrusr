@@ -15,7 +15,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
 
-replace (
-
-	github.com/go-logr/logr v1.2.3 => github.com/go-logr/logr v1.2.3
-)
+replace github.com/go-logr/logr v0.0.0 => github.com/go-logr/logr v1.2.3
