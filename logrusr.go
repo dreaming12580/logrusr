@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/go-logr/logr"
+	"github.com/go-logr/logr123"
 	"github.com/sirupsen/logrus"
 )
 
